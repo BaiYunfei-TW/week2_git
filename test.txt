@@ -1,1 +1,5 @@
 I just removed 'master.txt' in branch test.
+
+I know how to use Git now!
+
+:)
