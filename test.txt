@@ -1,0 +1,1 @@
+I just removed 'master.txt' in branch test.
